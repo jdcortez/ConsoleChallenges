@@ -1,0 +1,7 @@
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenge.Interfaces\bin\Debug\Challenges.Interfaces.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenge.Interfaces\bin\Debug\Challenges.Interfaces.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenge.Interfaces\bin\Debug\Challenges.Interfaces.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenge.Interfaces\obj\Debug\Challenges.Interfaces.csprojAssemblyReference.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenge.Interfaces\obj\Debug\Challenges.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenge.Interfaces\obj\Debug\Challenges.Interfaces.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenge.Interfaces\obj\Debug\Challenges.Interfaces.pdb

@@ -1,0 +1,17 @@
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\ChallengeOne.UI.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\ChallengeOne.UI.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\ChallengeOne.UI.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.csprojAssemblyReference.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.csproj.CoreCompileInputs.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\obj\Debug\ChallengeOne.UI.csproj.CopyComplete
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\ChallengeOne.Repository.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\ChallengeOne.Repository.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\ChallengeOne.Repository.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\Challenges.Console.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\Challenges.Interfaces.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\Challenges.Interfaces.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\Challenges.Interfaces.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\Challenges.Console.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UI\bin\Debug\Challenges.Console.exe.config

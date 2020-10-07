@@ -1,0 +1,17 @@
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\ChallengeOne.UnitTest.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\ChallengeOne.UnitTest.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\ChallengeOne.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\ChallengeOne.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\ChallengeOne.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\obj\Debug\ChallengeOne.UnitTest.csprojAssemblyReference.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\obj\Debug\ChallengeOne.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\obj\Debug\ChallengeOne.UnitTest.csproj.CopyComplete
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\obj\Debug\ChallengeOne.UnitTest.dll
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeOne.UnitTest\obj\Debug\ChallengeOne.UnitTest.pdb

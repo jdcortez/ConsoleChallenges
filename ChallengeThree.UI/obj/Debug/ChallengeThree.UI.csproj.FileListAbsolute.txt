@@ -1,0 +1,17 @@
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\ChallengeThree.UI.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\ChallengeThree.UI.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\ChallengeThree.UI.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\Challenges.Console.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\Challenges.Interfaces.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\ChallengeThree.Repository.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\Challenges.Interfaces.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\Challenges.Interfaces.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\Challenges.Console.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\Challenges.Console.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\ChallengeThree.Repository.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\bin\Debug\ChallengeThree.Repository.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\obj\Debug\ChallengeThree.UI.csprojAssemblyReference.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\obj\Debug\ChallengeThree.UI.csproj.CoreCompileInputs.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\obj\Debug\ChallengeThree.UI.csproj.CopyComplete
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\obj\Debug\ChallengeThree.UI.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeThree.UI\obj\Debug\ChallengeThree.UI.pdb

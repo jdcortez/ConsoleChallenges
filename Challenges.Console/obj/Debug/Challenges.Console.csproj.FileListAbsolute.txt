@@ -1,0 +1,11 @@
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\bin\Debug\Challenges.Console.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\bin\Debug\Challenges.Console.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\bin\Debug\Challenges.Console.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\bin\Debug\Challenges.Interfaces.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\bin\Debug\Challenges.Interfaces.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\bin\Debug\Challenges.Interfaces.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\obj\Debug\Challenges.Console.csprojAssemblyReference.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\obj\Debug\Challenges.Console.csproj.CoreCompileInputs.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\obj\Debug\Challenges.Console.csproj.CopyComplete
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\obj\Debug\Challenges.Console.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\Challenges.Console\obj\Debug\Challenges.Console.pdb

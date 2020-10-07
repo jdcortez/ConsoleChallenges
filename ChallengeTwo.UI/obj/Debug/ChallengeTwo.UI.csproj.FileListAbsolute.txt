@@ -1,0 +1,17 @@
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\ChallengeTwo.UI.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\ChallengeTwo.UI.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\ChallengeTwo.UI.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\obj\Debug\ChallengeTwo.UI.csprojAssemblyReference.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\obj\Debug\ChallengeTwo.UI.csproj.CoreCompileInputs.cache
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\obj\Debug\ChallengeTwo.UI.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\obj\Debug\ChallengeTwo.UI.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\Challenges.Console.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\Challenges.Interfaces.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\ChallengeTwo.Repository.exe
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\Challenges.Interfaces.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\Challenges.Interfaces.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\Challenges.Console.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\Challenges.Console.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\ChallengeTwo.Repository.pdb
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\bin\Debug\ChallengeTwo.Repository.exe.config
+C:\Users\dominick\Desktop\ElevenFiftyProjects\GoldBadge\LearningC#\ChallengeOne\ChallengeTwo.UI\obj\Debug\ChallengeTwo.UI.csproj.CopyComplete
